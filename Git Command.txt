@@ -70,5 +70,6 @@ or git add . && git commit -m "Message"
 22.  git remote -v: details check
 23.  git remote add origin URL -19 Number ta
 24.  git clone URL - copy for local repository
-25.  git pull - remote to local repository download 
+25.  git pull - remote to local repository download
+26.  : colon problem when git log see then : can't exit - solution - :q 
 
