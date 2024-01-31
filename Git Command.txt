@@ -66,5 +66,8 @@ or git add . && git commit -m "Message"
 
 19.  git remote add origin https://github.com/shuvobd8/Git-Command.git - github add remote
 20.  git push -u origin master
+21.  git remote - check remote connection
+22.  git remote -v: details check
+23.  git remote add origin URL -19 Number ta
  
 
