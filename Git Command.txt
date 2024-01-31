@@ -72,4 +72,4 @@ or git add . && git commit -m "Message"
 24.  git clone URL - copy for local repository
 25.  git pull - remote to local repository download
 26.  : colon problem when git log see then : can't exit - solution - :q 
-
+27.  git branch -m master main - Master to main branch change
