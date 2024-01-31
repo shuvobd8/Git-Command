@@ -1,0 +1,69 @@
+Git Command stage
+------------------
+Working Directory/workspace      
+Stagging area/index
+Local Repository
+
+
+CMD Command
+---------------
+cd - 
+mkdir folderName
+touch day1.tex - create text file
+start day1.txt - file open cmd
+cat day1.txt - git bash open data text.
+
+Git Command
+------------------
+1. git init (git start initializing)
+2. ls -a (check folder git initialize or not)
+3. git status - (git tracked file check)
+
+
+12. git config --global user.name "joherulhoq"
+13. git config --global user.email "joherulhoq@gmail.com"
+
+4. git add file_name (one file stage area gone)
+5. git add . (all file stage area gone)
+or git add . && git commit -m "Message"
+6. git ls
+7. git restore filename (restore file before)
+8. git rm --cached filename (Unstage area gone)
+9. git diff (different change file data)
+10. git commit -m "Message"
+11. git log
+12. git reset --soft HEAD^ - (commit area form stageing area gone)
+ ** git reset HEAD^ - (commite are from untracked area)
+ ** git reset --hard HEAD^ - (Commite area form delete)
+
+13. git log --oneline (id 7 digit show)
+14. git show 7digit_id
+
+15. get checkout  id_no - move HEAD Commite
+16. git checkout master - previous head position 
+
+17. .env , *.txt , !story.txt , node_modules/ , temp/   - git-ignore file
+---------
+18. Markdown....syntex.......Tutorials web show for use of markdown syntax
+	1.What & why README.md?  - this is markdown extenstion for plan to summary website
+	2.How to make a comment  - <!--Markdown tutorial-->
+	3.Normal text & new line - Anisul islam and new line 2 space 
+	4.Horizontal rule - (---) 3 hipen 
+	5.Headings - #,##,###,####,#####,###### -example # - h1,##-h2
+	6.Paragraph - <p>joherul hoque</p>
+	7.italic    - <i> this is an italic text </i> or _this is an italic txt_
+	8.bold  -    __this is an italic txt__
+	9.Strikethrough - ~~this is~~
+	10.inline code block  -  `this is inline`
+	11.Multiple line code block  - ```html text write now ``` or ```css text write now ```
+	12.List  -order list - 1. Item1 2. Item2 3. Item , unorder list - item1 - item2 
+	13.Link  -automatic link (http://www.bdjob.com) disable link (`http://www.bdjob.com`) 
+		  [facebook][websitelink]  [websitelink]: http://www.facebook.com
+	14.Image - ![profile](./images/me.jpg)  or html imgae tag
+	15.Emoji  - emoji copy kora dela hoba
+	16.Table
+
+
+
+ 
+
